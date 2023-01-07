@@ -1,0 +1,11 @@
+# Folders
+cache
+libraries
+logs
+versions
+
+# Files
+banned-ips.json
+banned-players.json
+usercache.json
+version_history.json
